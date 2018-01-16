@@ -1,0 +1,2 @@
+F:\ПНА\2\2\MyString\bin\Debug\MyString.exe.config
+F:\ПНА\2\2\MyString\obj\Debug\MyString.csprojResolveAssemblyReference.cache
