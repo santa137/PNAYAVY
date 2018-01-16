@@ -1,0 +1,6 @@
+F:\ПНА\1\1\lab_1\bin\Debug\lab_1.exe.config
+F:\ПНА\1\1\lab_1\bin\Debug\lab_1.exe
+F:\ПНА\1\1\lab_1\bin\Debug\lab_1.pdb
+F:\ПНА\1\1\lab_1\obj\Debug\lab_1.csprojResolveAssemblyReference.cache
+F:\ПНА\1\1\lab_1\obj\Debug\lab_1.exe
+F:\ПНА\1\1\lab_1\obj\Debug\lab_1.pdb
